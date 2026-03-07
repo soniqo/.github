@@ -6,4 +6,4 @@ Open-source audio intelligence.
 
 Created by [Ivan](https://blog.ivan.digital) · [LinkedIn](https://www.linkedin.com/in/ivan-sur/)
 
-**[Models](https://huggingface.co/aufklarer)** · **[Blog](https://blog.ivan.digital)**
+**[Docs](https://soniqo.audio)** · **[Models](https://huggingface.co/aufklarer)** · **[Blog](https://blog.ivan.digital)**
