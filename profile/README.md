@@ -1,0 +1,9 @@
+## soniqo
+
+Open-source audio intelligence.
+
+**[speech-swift](https://github.com/soniqo/speech-swift)** — AI speech models for Apple Silicon. ASR, TTS, speech-to-speech, VAD, diarization, and speech enhancement — all running locally via MLX and CoreML. No cloud, no API keys.
+
+Created by [Ivan](https://blog.ivan.digital) · [LinkedIn](https://www.linkedin.com/in/ivan-sur/)
+
+**[Models](https://huggingface.co/aufklarer)** · **[Blog](https://blog.ivan.digital)**
