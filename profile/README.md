@@ -8,10 +8,8 @@ Open-source audio intelligence.
 
 **[speech-core](https://github.com/soniqo/speech-core)** — Cross-platform voice agent pipeline engine in C++. Turn detection, interruption handling, speech queuing, and protocol handling.
 
----
 
-Need help integrating on-device speech into your app, need support, or want your model to be supported? Reach out to [Ivan](https://www.linkedin.com/in/ivan-sur/).
+Need help integrating on-device speech into your app, need support, or want your model to be supported? Reach out to **[Ivan](https://www.linkedin.com/in/ivan-sur/)**.
 
----
 
-**[Docs](https://soniqo.audio)** · **[Models](https://huggingface.co/aufklarer)** · **[Blog](https://blog.ivan.digital)**
+**[Docs](https://soniqo.audio)** · **[Huggignface Models](https://huggingface.co/aufklarer)** · **[blog.ivan.digital](https://blog.ivan.digital)**
