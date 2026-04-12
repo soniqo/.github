@@ -27,4 +27,8 @@ Open-source audio intelligence.
 
 ---
 
-Need help integrating on-device speech into your app, need support, or want your model to be supported? Reach out to **[Ivan](https://www.linkedin.com/in/ivan-sur/)**.
+### Need help?
+
+Integrating on-device speech into your app, need support, or want your model to be supported?
+
+**[Reach out to Ivan →](https://www.linkedin.com/in/ivan-sur/)**
