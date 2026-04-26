@@ -27,6 +27,12 @@ Open-source audio intelligence.
 
 ---
 
+### Community
+
+**[Join our Discord →](https://discord.gg/TnCryqEMgu)** — questions, support, model requests, and updates.
+
+---
+
 ### Need help?
 
 Integrating on-device speech into your app, need support, or want your model to be supported?
