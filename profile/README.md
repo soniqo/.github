@@ -2,7 +2,7 @@
 
 Open-source audio intelligence.
 
-**[Documentation](https://soniqo.audio)** · **HuggingFace ([Apple](https://huggingface.co/aufklarer) · [ONNX & LiteRT](https://huggingface.co/soniqo))** · **[Blog](https://blog.ivan.digital)** · **[YouTube Demos](https://www.youtube.com/@ivan-digital-200)** **[TikTok Robotic](https://www.tiktok.com/@soniqo_audio)
+**[Documentation](https://soniqo.audio)** · **HuggingFace ([Apple](https://huggingface.co/aufklarer) · [ONNX & LiteRT](https://huggingface.co/soniqo))** · **[Blog](https://blog.ivan.digital)** · **[YouTube Demos](https://www.youtube.com/@ivan-digital-200)** **[TikTok Robotic](https://www.tiktok.com/@soniqo_audio)**
 
 📖 [English](https://soniqo.audio) · [中文](https://soniqo.audio/zh) · [日本語](https://soniqo.audio/ja) · [한국어](https://soniqo.audio/ko) · [Español](https://soniqo.audio/es) · [Deutsch](https://soniqo.audio/de) · [Français](https://soniqo.audio/fr) · [हिन्दी](https://soniqo.audio/hi) · [Português](https://soniqo.audio/pt) · [Русский](https://soniqo.audio/ru) · [العربية](https://soniqo.audio/ar) · [Tiếng Việt](https://soniqo.audio/vi) · [Türkçe](https://soniqo.audio/tr) · [ไทย](https://soniqo.audio/th)
 
